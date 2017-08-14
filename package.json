@@ -1,0 +1,32 @@
+{
+  "name": "nodebb-plugin-cplayer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin"
+  ],
+  "author": {
+    "name": "Corps",
+    "email": "2442015817@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Copay/nodebb-plugin-cplayer/issues"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Copay/nodebb-plugin-cplayer"
+  },
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "nbbpm": {
+    "compatibility": "^1.5.0"
+  }
+}
